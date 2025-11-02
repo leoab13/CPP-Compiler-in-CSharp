@@ -64,15 +64,4 @@ If the generated `.asm` targets 32-bit or uses specific macros, adjust the `-f` 
 - The runtime behavior (input/output) depends on `io.inc` and the assembler/linker used.
 - The program currently prompts for the input filename; in future you may prefer passing the filename as a command-line argument.
 
-## Contributing
-
-Feel free to open issues or pull requests. Suggestions:
-
-- Add command-line argument support to skip the prompt and pass the source file directly.
-- Improve error messages and add more language features.
-- Add unit tests and CI to verify generated assembly for small programs.
-
-## License
-
-This repository does not include a license file. Add one if you want to make the project open source with a specific license.
 
