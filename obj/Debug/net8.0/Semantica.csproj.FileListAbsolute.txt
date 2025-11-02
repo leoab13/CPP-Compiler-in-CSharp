@@ -1,0 +1,57 @@
+C:/Users/edgar/Desktop/Semantica/bin/Debug/net8.0/Semantica.exe
+C:/Users/edgar/Desktop/Semantica/bin/Debug/net8.0/Semantica.deps.json
+C:/Users/edgar/Desktop/Semantica/bin/Debug/net8.0/Semantica.runtimeconfig.json
+C:/Users/edgar/Desktop/Semantica/bin/Debug/net8.0/Semantica.dll
+C:/Users/edgar/Desktop/Semantica/bin/Debug/net8.0/Semantica.pdb
+C:/Users/edgar/Desktop/Semantica/obj/Debug/net8.0/Semantica.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/edgar/Desktop/Semantica/obj/Debug/net8.0/Semantica.AssemblyInfoInputs.cache
+C:/Users/edgar/Desktop/Semantica/obj/Debug/net8.0/Semantica.AssemblyInfo.cs
+C:/Users/edgar/Desktop/Semantica/obj/Debug/net8.0/Semantica.csproj.CoreCompileInputs.cache
+C:/Users/edgar/Desktop/Semantica/obj/Debug/net8.0/Semantica.dll
+C:/Users/edgar/Desktop/Semantica/obj/Debug/net8.0/refint/Semantica.dll
+C:/Users/edgar/Desktop/Semantica/obj/Debug/net8.0/Semantica.pdb
+C:/Users/edgar/Desktop/Semantica/obj/Debug/net8.0/Semantica.genruntimeconfig.cache
+C:/Users/edgar/Desktop/Semantica/obj/Debug/net8.0/ref/Semantica.dll
+C:/Users/edgar/Documents/ESCUELA/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/bin/Debug/net8.0/Semantica.exe
+C:/Users/edgar/Documents/ESCUELA/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/bin/Debug/net8.0/Semantica.deps.json
+C:/Users/edgar/Documents/ESCUELA/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/bin/Debug/net8.0/Semantica.runtimeconfig.json
+C:/Users/edgar/Documents/ESCUELA/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/bin/Debug/net8.0/Semantica.dll
+C:/Users/edgar/Documents/ESCUELA/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/bin/Debug/net8.0/Semantica.pdb
+C:/Users/edgar/Documents/ESCUELA/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/Semantica.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/edgar/Documents/ESCUELA/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/Semantica.AssemblyInfoInputs.cache
+C:/Users/edgar/Documents/ESCUELA/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/Semantica.AssemblyInfo.cs
+C:/Users/edgar/Documents/ESCUELA/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/Semantica.csproj.CoreCompileInputs.cache
+C:/Users/edgar/Documents/ESCUELA/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/Semantica.dll
+C:/Users/edgar/Documents/ESCUELA/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/refint/Semantica.dll
+C:/Users/edgar/Documents/ESCUELA/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/Semantica.pdb
+C:/Users/edgar/Documents/ESCUELA/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/Semantica.genruntimeconfig.cache
+C:/Users/edgar/Documents/ESCUELA/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/ref/Semantica.dll
+C:/Users/edgar/Documents/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/bin/Debug/net8.0/Semantica.exe
+C:/Users/edgar/Documents/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/bin/Debug/net8.0/Semantica.deps.json
+C:/Users/edgar/Documents/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/bin/Debug/net8.0/Semantica.runtimeconfig.json
+C:/Users/edgar/Documents/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/bin/Debug/net8.0/Semantica.dll
+C:/Users/edgar/Documents/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/bin/Debug/net8.0/Semantica.pdb
+C:/Users/edgar/Documents/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/Semantica.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/edgar/Documents/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/Semantica.AssemblyInfoInputs.cache
+C:/Users/edgar/Documents/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/Semantica.AssemblyInfo.cs
+C:/Users/edgar/Documents/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/Semantica.csproj.CoreCompileInputs.cache
+C:/Users/edgar/Documents/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/Semantica.dll
+C:/Users/edgar/Documents/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/refint/Semantica.dll
+C:/Users/edgar/Documents/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/Semantica.pdb
+C:/Users/edgar/Documents/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/Semantica.genruntimeconfig.cache
+C:/Users/edgar/Documents/6TO SEMESTRE/LENGUAJES Y AUTOMATAS II/Semantica/obj/Debug/net8.0/ref/Semantica.dll
+/home/leonardo/Documents/GitHub/CPP-Compiler-in-CSharp/bin/Debug/net8.0/Semantica
+/home/leonardo/Documents/GitHub/CPP-Compiler-in-CSharp/bin/Debug/net8.0/Semantica.deps.json
+/home/leonardo/Documents/GitHub/CPP-Compiler-in-CSharp/bin/Debug/net8.0/Semantica.runtimeconfig.json
+/home/leonardo/Documents/GitHub/CPP-Compiler-in-CSharp/bin/Debug/net8.0/Semantica.dll
+/home/leonardo/Documents/GitHub/CPP-Compiler-in-CSharp/bin/Debug/net8.0/Semantica.pdb
+/home/leonardo/Documents/GitHub/CPP-Compiler-in-CSharp/obj/Debug/net8.0/Semantica.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonardo/Documents/GitHub/CPP-Compiler-in-CSharp/obj/Debug/net8.0/Semantica.AssemblyInfoInputs.cache
+/home/leonardo/Documents/GitHub/CPP-Compiler-in-CSharp/obj/Debug/net8.0/Semantica.AssemblyInfo.cs
+/home/leonardo/Documents/GitHub/CPP-Compiler-in-CSharp/obj/Debug/net8.0/Semantica.csproj.CoreCompileInputs.cache
+/home/leonardo/Documents/GitHub/CPP-Compiler-in-CSharp/obj/Debug/net8.0/Semantica.sourcelink.json
+/home/leonardo/Documents/GitHub/CPP-Compiler-in-CSharp/obj/Debug/net8.0/Semantica.dll
+/home/leonardo/Documents/GitHub/CPP-Compiler-in-CSharp/obj/Debug/net8.0/refint/Semantica.dll
+/home/leonardo/Documents/GitHub/CPP-Compiler-in-CSharp/obj/Debug/net8.0/Semantica.pdb
+/home/leonardo/Documents/GitHub/CPP-Compiler-in-CSharp/obj/Debug/net8.0/Semantica.genruntimeconfig.cache
+/home/leonardo/Documents/GitHub/CPP-Compiler-in-CSharp/obj/Debug/net8.0/ref/Semantica.dll
